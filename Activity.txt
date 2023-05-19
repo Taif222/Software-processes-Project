@@ -1,0 +1,9 @@
+123,walking,5.0
+123,biking,10.0
+456,driving,75.0
+456,biking,45.0
+789,walking,20.0
+789,driving,6.0
+123,az,400.0
+az,1,1.0
+taif,biking,3.0
