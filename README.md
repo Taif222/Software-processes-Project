@@ -1,2 +1,0 @@
-# Software-processes-Project
-EcoAware 
