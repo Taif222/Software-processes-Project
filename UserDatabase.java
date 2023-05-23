@@ -1,17 +1,10 @@
 
-
-
-
-
-package EcoAware2;
+package EcoAware1;
 import java.io.*;
 import java.util.*;
 
 
-/**
- *
- * @author taifa
- */
+
 class UserDatabase {
     
     private static final String FILENAME = "usersInfo.txt";
