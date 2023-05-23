@@ -1,8 +1,5 @@
 
-
-
-
-package EcoAware2;
+package EcoAware1;
 
 class Activity {
     private String ActivityType;
@@ -18,7 +15,6 @@ class Activity {
         return distance;}
     
     public double getCarbonEmissions() {
-          // CO2 emissions (Kg) = CO2 footprint * distance (Km)
         switch (ActivityType.toLowerCase()) {
             case "walking":
                 return distance * 0.0;
