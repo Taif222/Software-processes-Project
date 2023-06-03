@@ -1,0 +1,12 @@
+email1,driving,2.0
+email2,Walking,2.0
+email2,biking,1.0
+email2,driving,3.0
+email3,driving,5.0
+email3,driving,4.0
+email4,biking,3.0
+email4,driving,3.0
+email6,biking,4.0
+email6,driving,2.0
+email6,driving,4.0
+tay,biking,3.0
